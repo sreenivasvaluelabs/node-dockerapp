@@ -24,3 +24,5 @@ docker ps
 docker ps - a
 docker stop container id 
 
+docker run -p 3000:80 4d8d7b3e539a
+
