@@ -17,3 +17,10 @@ git push -u origin master
 
 docker rm  $(docker ps -q -a)
 the above will remove the stopped containers
+
+atlast to see container stuff:
+another terminal 
+docker ps
+docker ps - a
+docker stop container id 
+
